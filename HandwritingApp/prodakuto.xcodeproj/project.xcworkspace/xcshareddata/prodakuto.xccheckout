@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>62AF79CF-92C8-4A50-92E3-781B0AB5CA95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>prodakuto</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>81F29F5093360EB571B7519348B637E7C4B12CE0</key>
+		<string>https://github.com/uyu-kickstart/iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>prodakuto/prodakuto.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>81F29F5093360EB571B7519348B637E7C4B12CE0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/uyu-kickstart/iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>81F29F5093360EB571B7519348B637E7C4B12CE0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>81F29F5093360EB571B7519348B637E7C4B12CE0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
